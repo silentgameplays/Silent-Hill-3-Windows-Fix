@@ -10,4 +10,4 @@
 * Overwrite if necessary
 5.To fix the sound launch the fixwavs.bat file to fix sound
 6. Enjoy the game!
-# silentgameplayzz
+# silentgamepls
