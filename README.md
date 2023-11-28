@@ -4,6 +4,7 @@
 * https://www.microsoft.com/en-us/download/details.aspx?id=8109
 2. Download Silent Hill 3 ISO from Myabandonware,mount and install:
 *  https://www.myabandonware.com/game/silent-hill-3-bge
+*  https://1drv.ms/u/s!ApejwobQ9eGEbJ8oG19oH7RDy9M?e=kI5OFF
 3. Download all files in this repository
 4. Extract and copy/paste into the C:\Program Files(x86)\KONAMI\Silent Hill 3 
 * Overwrite if necessary
